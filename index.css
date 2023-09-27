@@ -1,0 +1,38 @@
+
+body {
+    background-image: url(../img/imagen.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.container {
+    border: grey solid 1px;
+    border-radius: 1rem;
+    margin: 2rem;
+    margin-top: 5rem;
+    height: 25em;
+    background-color: rgba(202, 87, 15, 0.327);
+}
+
+h1 {
+    color: rgb(24, 24, 24);
+    padding-top: 10rem;
+    margin-bottom: 2em;
+    font-size: 2 em;
+}
+
+a {
+    color: #FFFFFF;
+    background-color: red;
+    padding: 1em 1.5em;
+    border-radius: 1em;
+    border: #FFFFFF solid 1px;
+    margin-bottom: 10rem;
+    font-size: 1.2em;
+}
+
+table, td{
+    border: 1px solid;
+    border-collapse: collapse;
+}

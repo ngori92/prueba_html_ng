@@ -1,0 +1,56 @@
+body {
+    background-color: #8fbccb;
+}
+
+h1 {
+    color: rgb(0, 100, 255);
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+    color: darkred;
+}
+
+h3 {
+    text-align: right;
+    color: white;
+    background-color: grey;
+    padding: 1rem;
+}
+
+li {
+  padding: 5px;  
+}
+
+.manzanas {
+    font-style: italic;
+}
+
+:root{
+    --blanco: #fff;
+    --miAzul: #5213f1;
+}
+
+
+table {
+    width: 80%;
+    margin: 0 auto;
+    border: 1px balck solid;
+    background-color: var(--blanco);
+}
+
+tr, th, td {
+    border: 1px solid black;
+}
+
+.izquierda {
+    width: 40%;
+}
+
+caption {
+    font-size: 50px;
+    font-weight: 800;
+    color: var(--miAzul)
+    
+}
